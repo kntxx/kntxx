@@ -2,7 +2,9 @@
 <h3 align="center">On a journey to become Front End Developer</h3>
 
 
+
 <img alt="coding" align="right" width="400px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN4ZmV0aDJ4eWJsYTJwb3dvdzZoNW12enpsNHo2YjNkYXEwaDN2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 
 
@@ -16,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kentjosephgesoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kentjosephgesoro" height="30" width="40" /></a>
-<a href="https://fb.com/kentgesoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kentgesoro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//kent-joseph-gesoro-69b399259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kent-joseph-gesoro-69b399259/" height="30" width="40" /></a>
+<a href="https://fb.com/tnek18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tnek18" height="30" width="40" /></a>
 <a href="https://instagram.com/kentatixx18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kentatixx18" height="30" width="40" /></a>
 </p>
 
