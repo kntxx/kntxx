@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kent Gesoro</h1>
-<h3 align="center">On a journey to become Front End Developer</h3>
+<h3 align="center">On a journey to become Software Engineer</h3>
 
 
 
