@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React and Next Js**
 
-- 👨‍💻 My Portfolio [https://kentgesoro.me/](kentgesoro.me)
+- 👨‍💻 My Portfolio: **[kentgesoro.me](https://kentgesoro.me)**
 
 - 📫 How to reach me **kentatixx@gmail.com**
 
