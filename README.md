@@ -10,7 +10,7 @@
 - ☁️ Currently exploring **Azure, Cloud Concepts & DevOps workflows**
 - 🌱 Building my foundation in Cloud, Infrastructure, and DevOps tools
 - 👨‍💻 Portfolio: **[kentgesoro.me](https://kentgesoro.me)**
-- 📫 Reach me at **kentatixx@gmail.com**
+- 📫 Reach me at **gesorokent@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
